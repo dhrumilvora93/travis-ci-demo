@@ -1,4 +1,4 @@
-# Lab Travis CI https://travis-ci.org/dhrumilvora93/travis-ci-demo.svg?branch=master
+# Lab Travis CI [![Build Status](https://travis-ci.org/dhrumilvora93/travis-ci-demo.svg?branch=master)](https://travis-ci.org/dhrumilvora93/travis-ci-demo)
 
 This repository contains a sample source code for creating a sample flask server that prints out "Hello World". Also, corresponding libraries or packages required to run this flask server are provided in requirements.txt file which can be installed with command `pip install -r requirements.txt`
 
