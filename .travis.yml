@@ -2,5 +2,11 @@ language: python
 install:
   - pip install --user -r requirements.txt
 
-script: hello.py
+script: 
+  - pytest
 
+notifications:
+email:git 
+  recipients:
+    - dhrumilvora93@gmail.com
+  on_success: always # default: change
