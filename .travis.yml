@@ -6,7 +6,7 @@ script:
   - pytest
 
 notifications:
-email:git 
+email:
   recipients:
     - dhrumilvora93@gmail.com
   on_success: always # default: change
